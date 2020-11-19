@@ -1,8 +1,0 @@
-**/jobInfo.properties
-.JETEmitters/
-.Java/
-.metadata/
-BI_MEDOC/code/routines/system/*.*
-BI_MEDOC/temp/
-BI_MEDOC/sqlPatterns/
-BI_MEDOC/talend.project
